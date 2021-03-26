@@ -20,6 +20,10 @@ npm install vm2
 npm install uglify-es
     
 npm install js-beautify
+
+npm install escodegen
+
+npm install cheerio
 ```
 
 # 分包功能
